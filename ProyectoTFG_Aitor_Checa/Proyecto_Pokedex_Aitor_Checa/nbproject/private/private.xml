@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>css/style.css</url>
+            <bookmark id="1">
+                <name/>
+                <line>431</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/vistas/registro.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/vistas/listaPokemon.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/controladores/UsuariosControlador.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/css/styleMedia.css</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/index.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/vistas/inicio.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/vistas/sobreMi.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/vistas/plantilla.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/modelo/FotoDAO.php</file>
+            <file>file:/C:/xampp/htdocs/Proyecto_Pokedex_Aitor_Checa/controladores/PokemonControlador.php</file>
+        </group>
+    </open-files>
+</project-private>
